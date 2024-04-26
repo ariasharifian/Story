@@ -1,1 +1,3 @@
 pycharm opened txt file with bash git commands - third chaptergi
+line 2 :(git
+line 3 :)
